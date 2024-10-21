@@ -1,0 +1,9 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "abc   " 
+        🔎 YOUR OUTPUT:
+clang: error: no such file or directory: '../../rendu/rostring/rostring.c'
+clang: error: no input files
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
